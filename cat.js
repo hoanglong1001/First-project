@@ -1,4 +1,4 @@
 function cat() {
 	console.log('Meo meo');
 }
-cat();
+module.exports = Cat;
