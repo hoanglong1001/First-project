@@ -1,4 +1,5 @@
-function cat() {
-	console.log('Meo meo');
+function Cat(name) {
+	this.name = name;
+	this.stomach = [];
 }
 module.exports = Cat;
