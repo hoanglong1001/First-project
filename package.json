@@ -1,0 +1,8 @@
+{
+  "name": "",
+  "version": "",
+  "description": "First comment",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
