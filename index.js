@@ -5,4 +5,3 @@ var newDog = new Dog('Corgi');
 var newCat = new Cat();
 
 newDog.eat(newCat);
-console.log(newDog);
